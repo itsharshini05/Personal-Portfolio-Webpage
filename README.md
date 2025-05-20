@@ -39,4 +39,8 @@ It allows freelancers to present their work to potential clients.
 It helps build a personal online presence, making it easier for others to find and connect with you.
 
 
+*OUTOUT*:
+![Image](https://github.com/user-attachments/assets/811e5823-7202-4f67-96d5-eef0b7b8a5ce)
+
+
 
