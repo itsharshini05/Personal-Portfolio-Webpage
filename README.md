@@ -13,7 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 
-*DESCRIPTION*:A Personal Portfolio Webpage is a single-page website designed to showcase a developer’s skills, projects, and personal information. Created using only HTML and CSS, this webpage acts like a digital resume or online business card. It is often used by students, freelancers, and professionals to present their work and make it easy for employers, clients, or collaborators to learn more about them.
+*DESCRIPTION*: A Personal Portfolio Webpage is a single-page website designed to showcase a developer’s skills, projects, and personal information. Created using only HTML and CSS, this webpage acts like a digital resume or online business card. It is often used by students, freelancers, and professionals to present their work and make it easy for employers, clients, or collaborators to learn more about them.
 
 The webpage typically includes sections such as:
 
